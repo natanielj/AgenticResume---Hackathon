@@ -1,5 +1,8 @@
 # ResumeAI - Hackathon Project 
 
+[![Watch the video](thumbnail.png)](https://www.youtube.com/watch?v=p5ZQ9iI1opE&list=PLWT28nFa-4QHMBsCbJ9-zXTYULeur_2T2&index=2)
+
+
 ## Instruction to Run Project
 
 ### Step 1: Setup the env files
