@@ -1,0 +1,14 @@
+[[pages]]
+path = "src/main_page.py"
+name = "Home"
+icon = "🏠"
+
+[[pages]]
+path = "src/pages/apps_log.py"
+name = "Applications Log"
+icon = "🗂️"
+
+[[pages]]
+path = "src/pages/experiences.py"
+name = "Experiences Log"
+icon = "🧭"
